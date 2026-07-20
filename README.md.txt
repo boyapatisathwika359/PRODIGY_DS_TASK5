@@ -139,9 +139,6 @@ pandas
 numpy
 matplotlib
 seaborn
-```
-
----
 
 ## 👩‍💻 Author
 
@@ -150,10 +147,11 @@ seaborn
 Data Analytics Intern
 
 **ProDigy InfoTech**
+Github Repository : https://github.com/boyapatisathwika359
 
 ---
 
 ## ⭐ Acknowledgements
 
-- **ProDigy InfoTech** for providing this internship task.
-- **Kaggle** for providing the US Traffic Accidents dataset.
+**ProDigy InfoTech** for providing this internship task.
+**Kaggle** for providing the US Traffic Accidents dataset.
